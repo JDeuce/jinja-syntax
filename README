@@ -1,0 +1,4 @@
+Adds Jinja support to vim. The jinja.vim just highlights Jinja, the jinjahtml.vim which you can install additionally also highlights HTML around the Jinja tags.
+http://www.vim.org/scripts/script.php?script_id=1856
+
+By default *.jinja and *.jinja2 files will be processed with the jinjahtml.vim script
